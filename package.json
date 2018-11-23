@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "calculator",
   "version": "0.1.0",
   "license": "MIT",
@@ -14,15 +15,29 @@
     "github-fork-ribbon-css": "^0.2.1",
     "react": "^16.4.0",
     "react-dom": "^16.4.0"
+=======
+  "name": "decouple-react-redux",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-scripts": "^2.1.1",
+    "wolfy87-eventemitter": "^5.2.5"
+>>>>>>> ready
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
+<<<<<<< HEAD
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build"
   },
   "prettier": {
     "trailingComma": "all"
+=======
+    "eject": "react-scripts eject"
+>>>>>>> ready
   }
 }
